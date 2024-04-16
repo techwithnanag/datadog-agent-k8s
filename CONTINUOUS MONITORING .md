@@ -26,7 +26,7 @@ Here are some of its key use cases\:
 
 **Let\'s go to datadog [website](https://www.datadoghq.com/) for installation instructions** 
 - [ ]  Sing up for free try account 
-- [ ] Generate API KEY    6fbbc7a90ed6a2f0bbd4d3e0bfa9ae27
+- [ ] Generate API KEY    
 - [ ] Integration \-\-\- Agent \-\-\-\-\- Select your plaform for instructions
 ***
                          Platform\: Kubernetes                  
